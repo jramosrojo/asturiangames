@@ -1,21 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@jramosr 
-0
-1 0 stupdesign/asturiangames
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Security  Insights  Settings
-asturiangames/cdn/assets/css/style.css
- Javier Ramos Upload
-ed9c7dc on 12 Apr
-45 lines (39 sloc)  704 Bytes
-  
 body {
   font-family: "Lato", sans-serif;
 }
@@ -60,15 +42,7 @@ h1.sidenav-title {
 }
 body {
 }
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
+h3.aviso {
+ color: red;
+}
